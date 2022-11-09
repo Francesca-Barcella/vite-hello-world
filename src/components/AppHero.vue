@@ -5,14 +5,12 @@ export default {
 </script>
 
 <template>
-  <h1>Prova app hero</h1>
+  <div>
+    <img src="../assets/img/jumbo-bg.png" alt="">
+  </div>
 
 </template>
 
 <style scoped>
-  h1 {
-    font-size: 2em;
-    line-height: 1.1;
-    color: green;
-  }
+
 </style>
