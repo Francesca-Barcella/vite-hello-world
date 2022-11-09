@@ -10,8 +10,10 @@ export default {
 
 <style scoped>
   h1 {
-    font-size: 2em;
-    line-height: 1.1;
+    font-size: 2rem;
+    line-height: 2;
     color: red;
+    background-color: #f0f0f0;
+    margin-bottom: 0;
   }
 </style>

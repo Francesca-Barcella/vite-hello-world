@@ -12,5 +12,8 @@ export default {
 </template>
 
 <style scoped>
-
+img {
+    max-width: 100%;
+    margin: auto;
+}
 </style>
