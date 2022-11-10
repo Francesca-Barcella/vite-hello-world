@@ -5,6 +5,7 @@ import AppHero from './components/AppHero.vue';
 
 
 export default {
+  name:'App',
 
   components: {
     AppTitle,

@@ -3,7 +3,8 @@
 import AppTitleHero from './components/AppTitleHero.vue';
 
 export default {
-
+  name:'App',
+  
   components: {
     AppTitleHero
   }
